@@ -1,10 +1,10 @@
 import java.io.*;
 import java.util.*;
 /**
- * Write a description of class MyApp here.
+ * inutData20191007.txt 파일로 부터 이름과 성적 정보를 읽어 들여서 총점과 평균을 계산해주는 프로그램.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (2018315036 양유석 , 2018315003 최세원)
+ * @version (2019.10.07)
  */
 public class MyApp
 {
